@@ -3,7 +3,6 @@ import random
 import time
 import tweepy
 from os import environ
-import credentials
 
 API_KEY = environ['API_KEY']
 API_KEY_SECRET = environ['API_KEY_SECRET']
