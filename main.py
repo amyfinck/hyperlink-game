@@ -2,18 +2,16 @@ import json
 import random
 import time
 import tweepy
-#from os import environ
+from os import environ
 import credentials
 
-# for use when heroku environ variables set up
-# CONSUMER_KEY = environ['CONSUMER_KEY']
-# CONSUMER_SECRET = environ['CONSUMER_SECRET']
-# ACCESS_KEY = environ['ACCESS_KEY']
-# ACCESS_SECRET = environ['ACCESS_SECRET']
+API_KEY = environ['API_KEY']
+API_KEY_SECRET = environ['API_KEY_SECRET']
+ACCESS_TOKEN = environ['ACCESS_TOKEN']
+ACCESS_TOKEN_SECRET = environ['ACCESS_TOKEN_SECRET']
 
-# TODO - use environment variables instead
-authenticator = tweepy.OAuthHandler(credentials.API_KEY, credentials.API_KEY_SECRET)
-authenticator.set_access_token(credentials.ACCESS_TOKEN, credentials.ACCESS_TOKEN_SECRET)
+authenticator = tweepy.OAuthHandler(API_KEY, API_KEY_SECRET)
+authenticator.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 
 api = tweepy.API(authenticator, wait_on_rate_limit=True)
 
