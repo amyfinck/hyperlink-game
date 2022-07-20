@@ -2,365 +2,525 @@
     "starting_points": [
         {
             "title": "Shinzo Abe",
-            "link": "https://en.wikipedia.org/wiki/Shinzo_Abe",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Shinzo_Abe"
         },
         {
             "title": "Woman's Day",
-            "link": "https://en.wikipedia.org/wiki/Woman%27s_Day",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Woman%27s_Day"
         },
         {
             "title": "Metrosexual",
-            "link": "https://en.wikipedia.org/wiki/Metrosexual",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Metrosexual"
         },
         {
             "title": "Blue Hair",
-            "link": "https://en.wikipedia.org/wiki/Blue_hair",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Blue_hair"
         },
         {
             "title": "Macaroni Art",
-            "link": "https://en.wikipedia.org/wiki/Macaroni_art",
-            "used": true
+            "link": "https://en.wikipedia.org/wiki/Macaroni_art"
         },
         {
             "title": "Lookism",
-            "link": "https://en.wikipedia.org/wiki/Lookism",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Lookism"
         },
         {
             "title": "Ma (film)",
-            "link": "https://en.wikipedia.org/wiki/Ma_(film)",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Ma_(film)"
         },
         {
             "title": "30H!3",
-            "link": "https://en.wikipedia.org/wiki/3OH!3",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/3OH!3"
         },
         {
             "title": "https://en.wikipedia.org/wiki/69_(number)",
-            "link": "69",
-            "used": false
+            "link": "69"
         },
         {
             "title": "Nose Picking",
-            "link": "https://en.wikipedia.org/wiki/Nose-picking",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Nose-picking"
         },
         {
             "title": "Annie's Homegrown",
-            "link": "https://en.wikipedia.org/wiki/Annie%27s_Homegrown",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Annie%27s_Homegrown"
         },
         {
             "title": "Bachelor Tax",
-            "link": "https://en.wikipedia.org/wiki/Bachelor_tax",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Bachelor_tax"
         },
         {
             "title": "Annoying Orange",
-            "link": "https://en.wikipedia.org/wiki/Annoying_Orange",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Annoying_Orange"
         },
         {
             "title": "Parodies of Harry Potter",
-            "link": "https://en.wikipedia.org/wiki/Parodies_of_Harry_Potter",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Parodies_of_Harry_Potter"
         },
         {
             "title": "Cool S",
-            "link": "https://en.wikipedia.org/wiki/Cool_S",
-            "used": true
+            "link": "https://en.wikipedia.org/wiki/Cool_S"
         },
         {
             "title": "Nutellagate",
-            "link": "https://en.wikipedia.org/wiki/Nutellagate",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Nutellagate"
         },
         {
             "title": "Pocket Dialing",
-            "link": "https://en.wikipedia.org/wiki/Pocket_dialing",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Pocket_dialing"
         },
         {
-            "title": "Brain\u2013body mass ratio",
-            "link": "https://en.wikipedia.org/wiki/Brain-to-body_mass_ratio",
-            "used": false
+            "title": "Brain-body mass ratio",
+            "link": "https://en.wikipedia.org/wiki/Brain-to-body_mass_ratio"
         },
         {
             "title": "Greeble",
-            "link": "https://en.wikipedia.org/wiki/Greeble",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Greeble"
         },
         {
             "title": "Grover",
-            "link": "https://en.wikipedia.org/wiki/Grover",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Grover"
         },
         {
             "title": "Refrigerator magnet",
-            "link": "https://en.wikipedia.org/wiki/Refrigerator_magnet",
-            "used": true
+            "link": "https://en.wikipedia.org/wiki/Refrigerator_magnet"
         },
         {
             "title": "Extreme Ironing",
-            "link": "https://en.wikipedia.org/wiki/Extreme_ironing",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Extreme_ironing"
         },
         {
             "title": "Most Unwanted Song",
-            "link": "https://en.wikipedia.org/wiki/The_Most_Unwanted_Song",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/The_Most_Unwanted_Song"
         },
         {
             "title": "Shut Up, Little Man!",
-            "link": "https://en.wikipedia.org/wiki/Shut_Up,_Little_Man!",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Shut_Up,_Little_Man!"
         },
         {
             "title": "Eeyore's Birthday Party",
-            "link": "https://en.wikipedia.org/wiki/Eeyore%27s_Birthday_Party",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Eeyore%27s_Birthday_Party"
         },
         {
             "title": "Puppy Cat",
-            "link": "https://en.wikipedia.org/wiki/Puppy_cat",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Puppy_cat"
         },
         {
             "title": "Hotel Toilet Paper Folding",
-            "link": "https://en.wikipedia.org/wiki/Hotel_toilet_paper_folding",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Hotel_toilet_paper_folding"
         },
         {
             "title": "Cosmic Latte",
-            "link": "https://en.wikipedia.org/wiki/Cosmic_latte",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Cosmic_latte"
         },
         {
             "title": "Helicopter Parent",
-            "link": "https://en.wikipedia.org/wiki/Helicopter_parent",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Helicopter_parent"
         },
         {
             "title": "Bryna (given name)",
-            "link": "https://en.wikipedia.org/wiki/Bryna_(given_name)",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Bryna_(given_name)"
         },
         {
             "title": "Looting",
-            "link": "https://en.wikipedia.org/wiki/Looting",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Looting"
         },
         {
             "title": "Feminism in France",
-            "link": "https://en.wikipedia.org/wiki/Feminism_in_France",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Feminism_in_France"
         },
         {
             "title": "Jungle Juice",
-            "link": "https://en.wikipedia.org/wiki/Jungle_juice",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Jungle_juice"
         },
         {
             "title": "Evil Clown",
-            "link": "https://en.wikipedia.org/wiki/Evil_clown",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Evil_clown"
         },
         {
             "title": "Penis Envy",
-            "link": "https://en.wikipedia.org/wiki/Penis_envy",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Penis_envy"
         },
         {
             "title": "White Flight",
-            "link": "https://en.wikipedia.org/wiki/White_flight",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/White_flight"
         },
         {
             "title": "Missionaries and Cannibals Problem",
-            "link": "https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem"
         },
         {
             "title": "Avril Lavigne Replacement Conspiracy Theory",
-            "link": "https://en.wikipedia.org/wiki/Avril_Lavigne_replacement_conspiracy_theory",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Avril_Lavigne_replacement_conspiracy_theory"
         },
         {
             "title": "Human Power",
-            "link": "https://en.wikipedia.org/wiki/Human_power",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Human_power"
+        },
+        {
+            "title": "World Naked Bike Ride",
+            "link": "https://en.wikipedia.org/wiki/World_Naked_Bike_Ride\"\"\n"
+        },
+        {
+            "title": "Big Crunch",
+            "link": "https://en.wikipedia.org/wiki/Big_Crunch"
+        },
+        {
+            "title": "Wreck Beach",
+            "link": "https://en.wikipedia.org/wiki/Wreck_Beach"
+        },
+        {
+            "title": "Cute aggression",
+            "link": "https://en.wikipedia.org/wiki/Cute_aggression"
+        },
+        {
+            "title": "Last Words",
+            "link": "https://en.wikipedia.org/wiki/Last_words"
+        },
+        {
+            "title": "Tritone",
+            "link": "https://en.wikipedia.org/wiki/Tritone"
+        },
+        {
+            "title": "Backronym",
+            "link": "https://en.wikipedia.org/wiki/Backronym"
+        },
+        {
+            "title": "Satiric misspelling",
+            "link": "https://en.wikipedia.org/wiki/Satiric_misspelling"
+        },
+        {
+            "title": "Herstory",
+            "link": "https://en.wikipedia.org/wiki/Herstory"
+        },
+        {
+            "title": "Sensational spelling",
+            "link": "https://en.wikipedia.org/wiki/Sensational_spelling"
+        },
+        {
+            "title": "SMS language",
+            "link": "https://en.wikipedia.org/wiki/SMS_language"
+        },
+        {
+            "title": "Imposter syndrome",
+            "link": "https://en.wikipedia.org/wiki/Impostor_syndrome"
+        },
+        {
+            "title": "Great Molasses Flood",
+            "link": "https://en.wikipedia.org/wiki/Great_Molasses_Flood"
+        },
+        {
+            "title": "Cymothoa exigua",
+            "link": "https://en.wikipedia.org/wiki/Cymothoa_exigua"
+        },
+        {
+            "title": "Parasitic castration",
+            "link": "https://en.wikipedia.org/wiki/Parasitic_castration"
+        },
+        {
+            "title": "Skateboarding dog",
+            "link": "https://en.wikipedia.org/wiki/Skateboarding_dog"
+        },
+        {
+            "title": "Bromance",
+            "link": "https://en.wikipedia.org/wiki/Bromance"
+        },
+        {
+            "title": "Heteronormativity",
+            "link": "https://en.wikipedia.org/wiki/Heteronormativity"
+        },
+        {
+            "title": "Biphobia",
+            "link": "https://en.wikipedia.org/wiki/Biphobia"
+        },
+        {
+            "title": "Unattractiveness",
+            "link": "https://en.wikipedia.org/wiki/Unattractiveness"
+        },
+        {
+            "title": "Submechanophobia",
+            "link": "https://en.wikipedia.org/wiki/Submechanophobia"
+        },
+        {
+            "title": "Digital hoarding",
+            "link": "https://en.wikipedia.org/wiki/Digital_hoarding"
+        },
+        {
+            "title": "Chronophobia",
+            "link": "https://en.wikipedia.org/wiki/Chronophobia"
+        },
+        {
+            "title": "Moonlight tower",
+            "link": "https://en.wikipedia.org/wiki/Moonlight_tower"
+        },
+        {
+            "title": "Tidal locking",
+            "link": "https://en.wikipedia.org/wiki/Tidal_locking"
+        },
+        {
+            "title": "Funky Winkerbean",
+            "link": "https://en.wikipedia.org/wiki/Funky_Winkerbean"
+        },
+        {
+            "title": "Cow Tools",
+            "link": "https://en.wikipedia.org/wiki/Cow_Tools"
         }
     ],
     "ending_points": [
         {
             "title": "Old Yeller",
-            "link": "https://en.wikipedia.org/wiki/Old_Yeller",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Old_Yeller"
         },
         {
             "title": "J. Robert Oppenheimer",
-            "link": "https://en.wikipedia.org/wiki/J._Robert_Oppenheimer",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/J._Robert_Oppenheimer"
         },
         {
             "title": "Rural Internet",
-            "link": "https://en.wikipedia.org/wiki/Rural_internet",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Rural_internet"
         },
         {
             "title": "Marineland of Canada",
-            "link": "https://en.wikipedia.org/wiki/Marineland_of_Canada",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Marineland_of_Canada"
         },
         {
             "title": "Blond",
-            "link": "https://en.wikipedia.org/wiki/Blond",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Blond"
         },
         {
             "title": "Girlboss",
-            "link": "https://en.wikipedia.org/wiki/Girlboss",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Girlboss"
         },
         {
             "title": "Hole",
-            "link": "https://en.wikipedia.org/wiki/Hole",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Hole"
         },
         {
             "title": "Essential Oil",
-            "link": "https://en.wikipedia.org/wiki/Essential_oil",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Essential_oil"
         },
         {
             "title": "Trolley Problem",
-            "link": "https://en.wikipedia.org/wiki/Trolley_problem",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Trolley_problem"
         },
         {
             "title": "Toxic Masculinity",
-            "link": "https://en.wikipedia.org/wiki/Toxic_masculinity",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Toxic_masculinity"
         },
         {
             "title": "Free Will",
-            "link": "https://en.wikipedia.org/wiki/Free_will",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Free_will"
         },
         {
             "title": "TikTok",
-            "link": "https://en.wikipedia.org/wiki/TikTok",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/TikTok"
         },
         {
             "title": "Non-fungible Token",
-            "link": "https://en.wikipedia.org/wiki/Non-fungible_token",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Non-fungible_token"
         },
         {
             "title": "Macy's",
-            "link": "https://en.wikipedia.org/wiki/Macy%27s",
-            "used": true
+            "link": "https://en.wikipedia.org/wiki/Macy%27s"
         },
         {
             "title": "Folsom Prison Blues",
-            "link": "https://en.wikipedia.org/wiki/Folsom_Prison_Blues",
-            "used": true
+            "link": "https://en.wikipedia.org/wiki/Folsom_Prison_Blues"
         },
         {
             "title": "Newt Gingrich",
-            "link": "https://en.wikipedia.org/wiki/Newt_Gingrich",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Newt_Gingrich"
         },
         {
             "title": "Taxidermy",
-            "link": "https://en.wikipedia.org/wiki/Taxidermy",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Taxidermy"
         },
         {
             "title": "Gig Worker",
-            "link": "https://en.wikipedia.org/wiki/Gig_worker",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Gig_worker"
         },
         {
             "title": "Foot Fetishism",
-            "link": "https://en.wikipedia.org/wiki/Foot_fetishism",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Foot_fetishism"
         },
         {
             "title": "The Picture of Dorian Gray",
-            "link": "https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray"
         },
         {
             "title": "Elitism",
-            "link": "https://en.wikipedia.org/wiki/Elitism",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Elitism"
         },
         {
             "title": "Puberty",
-            "link": "https://en.wikipedia.org/wiki/Puberty",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Puberty"
         },
         {
             "title": "Semen",
-            "link": "https://en.wikipedia.org/wiki/Semen",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Semen"
         },
         {
             "title": "Compulsory Heterosexuality",
-            "link": "https://en.wikipedia.org/wiki/Compulsory_heterosexuality",
-            "used": true
+            "link": "https://en.wikipedia.org/wiki/Compulsory_heterosexuality"
         },
         {
             "title": "Tumblr",
-            "link": "https://en.wikipedia.org/wiki/Tumblr",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Tumblr"
         },
         {
             "title": "Mansplaining",
-            "link": "https://en.wikipedia.org/wiki/Mansplaining",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Mansplaining"
         },
         {
-            "title": "Lean Poisoning",
-            "link": "https://en.wikipedia.org/wiki/Lead_poisoning",
-            "used": false
+            "title": "Lead Poisoning",
+            "link": "https://en.wikipedia.org/wiki/Lead_poisoning"
         },
         {
             "title": "Ronald McDonald",
-            "link": "https://en.wikipedia.org/wiki/Ronald_McDonald",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Ronald_McDonald"
         },
         {
             "title": "Nancy Reagan",
-            "link": "https://en.wikipedia.org/wiki/Nancy_Reagan",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Nancy_Reagan"
         },
         {
             "title": "Nickelback",
-            "link": "https://en.wikipedia.org/wiki/Nickelback",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/Nickelback"
         },
         {
             "title": "My Little Pony: Friendship Is Magic Fandom",
-            "link": "https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic_fandom",
-            "used": false
+            "link": "https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic_fandom"
         },
         {
-            "title": "Comic Sans",
-            "link": "https://en.wikipedia.org/wiki/Comic_Sans",
-            "used": false
+            "title": "Comic sans",
+            "link": "https://en.wikipedia.org/wiki/Comic_Sans"
         },
         {
-            "title": "Fan Death",
-            "link": "https://en.wikipedia.org/wiki/Fan_death",
-            "used": false
+            "title": "Fan death",
+            "link": "https://en.wikipedia.org/wiki/Fan_death"
+        },
+        {
+            "title": "Mantis shrimp",
+            "link": "https://en.wikipedia.org/wiki/Mantis_shrimp"
+        },
+        {
+            "title": "Heat death of the universe",
+            "link": "https://en.wikipedia.org/wiki/Heat_death_of_the_universe"
+        },
+        {
+            "title": "Trousers",
+            "link": "https://en.wikipedia.org/wiki/Trousers"
+        },
+        {
+            "title": "Organic Farming",
+            "link": "https://en.wikipedia.org/wiki/Organic_farming"
+        },
+        {
+            "title": "Population Density",
+            "link": "https://en.wikipedia.org/wiki/Population_density"
+        },
+        {
+            "title": "Harp",
+            "link": "https://en.wikipedia.org/wiki/Harp"
+        },
+        {
+            "title": "Pedal Harp",
+            "link": "https://en.wikipedia.org/wiki/Pedal_harp"
+        },
+        {
+            "title": "Joanna Newsom",
+            "link": "https://en.wikipedia.org/wiki/Joanna_Newsom"
+        },
+        {
+            "title": "Ira Glass",
+            "link": "https://en.wikipedia.org/wiki/Ira_Glass"
+        },
+        {
+            "title": "Mickey Mouse Clubhouse",
+            "link": "https://en.wikipedia.org/wiki/Mickey_Mouse_Clubhouse"
+        },
+        {
+            "title": "Neutron star",
+            "link": "https://en.wikipedia.org/wiki/Neutron_star"
+        },
+        {
+            "title": "Twilight (novel series)",
+            "link": "https://en.wikipedia.org/wiki/Twilight_(novel_series)"
+        },
+        {
+            "title": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Wikipedia"
+        },
+        {
+            "title": "Uncertainty principle",
+            "link": "https://en.wikipedia.org/wiki/Uncertainty_principle"
+        },
+        {
+            "title": "Spacetime",
+            "link": "https://en.wikipedia.org/wiki/Spacetime"
+        },
+        {
+            "title": "Suffering",
+            "link": "https://en.wikipedia.org/wiki/Suffering"
+        },
+        {
+            "title": "Consciousness",
+            "link": "https://en.wikipedia.org/wiki/Consciousness"
+        },
+        {
+            "title": "Knockout rat",
+            "link": "https://en.wikipedia.org/wiki/Knockout_rat"
+        },
+        {
+            "title": "Pasteurization",
+            "link": "https://en.wikipedia.org/wiki/Pasteurization"
+        },
+        {
+            "title": "Notes on Camp",
+            "link": "https://en.wikipedia.org/wiki/Notes_on_%22Camp%22"
+        },
+        {
+            "title": "Monogamy",
+            "link": "https://en.wikipedia.org/wiki/Monogamy"
+        },
+        {
+            "title": "Recursive acronym",
+            "link": "https://en.wikipedia.org/wiki/Recursive_acronym"
+        },
+        {
+            "title": "Randomness",
+            "link": "https://en.wikipedia.org/wiki/Randomness"
+        },
+        {
+            "title": "Literary nonsense",
+            "link": "https://en.wikipedia.org/wiki/Literary_nonsense"
+        },
+        {
+            "title": "Soulmate",
+            "link": "https://en.wikipedia.org/wiki/Soulmate"
+        },
+        {
+            "title": "Gymnophobia",
+            "link": "https://en.wikipedia.org/wiki/Gymnophobia"
+        },
+        {
+            "title": "Grain elevator",
+            "link": "https://en.wikipedia.org/wiki/Grain_elevator"
+        },
+        {
+            "title": "Bad breath",
+            "link": "https://en.wikipedia.org/wiki/Bad_breath"
+        },
+        {
+            "title": "Number of the beast",
+            "link": "https://en.wikipedia.org/wiki/Number_of_the_beast"
+        },
+        {
+            "title": "Bibliophobia",
+            "link": "https://en.wikipedia.org/wiki/Bibliophobia"
+        },
+        {
+            "title": "Skeuomorph",
+            "link": "https://en.wikipedia.org/wiki/Skeuomorph"
         }
     ],
     "version": "1.0.0",

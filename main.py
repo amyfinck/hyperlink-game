@@ -15,10 +15,12 @@ authenticator.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 api = tweepy.API(authenticator, wait_on_rate_limit=True)
 
 def tweet_start_end_points():
-    interval = 60 * 60 * 24 # once a day
+    interval = 60 * 60 * 24
     while True:
         starting_point = get_random_starting_point()
         ending_point = get_random_ending_point()
+
+
 
         tweet = """
                     Navigate from \"{}\" to \"{}\"
@@ -43,9 +45,9 @@ def get_random_starting_point():
     with open('wiki_pages.json') as f:
         start_end_points = json.load(f)
         random_starting_point = random.choice(start_end_points['starting_points'])
-        while random_starting_point['used']:
-            random_starting_point = random.choice(start_end_points['starting_points'])
-        random_starting_point['used'] = True
+        # while random_starting_point['used']:
+        #     random_starting_point = random.choice(start_end_points['starting_points'])
+        # random_starting_point['used'] = True
     f.close()
     with open('wiki_pages.json', 'w') as f:
          json.dump(start_end_points, f, indent=4)
@@ -57,15 +59,14 @@ def get_random_ending_point():
     with open('wiki_pages.json') as f:
         start_end_points = json.load(f)
         random_ending_point = random.choice(start_end_points['ending_points'])
-        while random_ending_point['used']:
-            random_ending_point = random.choice(start_end_points['ending_points'])
-        start_end_points.update()
-        random_ending_point['used'] = True
+        # while random_ending_point['used']:
+        #     random_ending_point = random.choice(start_end_points['ending_points'])
+        # start_end_points.update()
+        # random_ending_point['used'] = True
         f.close()
     with open('wiki_pages.json', 'w') as f:
          json.dump(start_end_points, f, indent=4)
     f.close()
     return random_ending_point
-
 
 tweet_start_end_points()
