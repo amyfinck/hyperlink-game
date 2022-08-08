@@ -15,31 +15,24 @@ authenticator.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 api = tweepy.API(authenticator, wait_on_rate_limit=True)
 
 def tweet_start_end_points():
-    interval = 60 * 60 * 24
-    while True:
-        starting_point = get_random_starting_point()
-        ending_point = get_random_ending_point()
+    starting_point = get_random_starting_point()
+    ending_point = get_random_ending_point()
 
+    tweet = """
+                Navigate from \"{}\" to \"{}\"
+                """.format(starting_point['title'], ending_point['title'])
+    starting_point_link = """Start here:\n{}""".format(starting_point['link'])
+    ending_point_link = """End here:\n{}""".format(ending_point['link'])
 
+    original_tweet = api.update_status(tweet)
 
-        tweet = """
-                    Navigate from \"{}\" to \"{}\"
-                    """.format(starting_point['title'], ending_point['title'])
-        starting_point_link = """Start here:\n{}""".format(starting_point['link'])
-        ending_point_link = """End here:\n{}""".format(ending_point['link'])
+    reply1_tweet = api.update_status(starting_point_link,
+                                     in_reply_to_status_id=original_tweet.id,
+                                     auto_populate_reply_metadata=True)
 
-        original_tweet = api.update_status(tweet)
-
-        reply1_tweet = api.update_status(starting_point_link,
-                                         in_reply_to_status_id=original_tweet.id,
-                                         auto_populate_reply_metadata=True)
-
-        reply2_tweet = api.update_status(ending_point_link,
-                                         in_reply_to_status_id=reply1_tweet.id,
-                                         auto_populate_reply_metadata=True)
-
-        time.sleep(interval)
-
+    reply2_tweet = api.update_status(ending_point_link,
+                                     in_reply_to_status_id=reply1_tweet.id,
+                                     auto_populate_reply_metadata=True)
 
 def get_random_starting_point():
     with open('wiki_pages.json') as f:
@@ -53,7 +46,6 @@ def get_random_starting_point():
          json.dump(start_end_points, f, indent=4)
     f.close()
     return random_starting_point
-
 
 def get_random_ending_point():
     with open('wiki_pages.json') as f:
